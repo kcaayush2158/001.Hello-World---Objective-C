@@ -1,22 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="66aad561-c2e4-42f4-a451-4631a2355a4d" name="Default Changelist" comment="" />
+    <list default="true" id="66aad561-c2e4-42f4-a451-4631a2355a4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002.Interface/Height.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002.Interface/Height.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002.Interface.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/002.Interface.xcodeproj/project.pbxproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="macos_macos_x86_64" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bPKI9BPQetsF9obDQZxsZRnpj2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="002.Interface" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
     <configuration name="002.Interface" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="002.Interface" TARGET_NAME="002.Interface" CONFIG_NAME="Debug" SCHEME_NAME="002.Interface" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="002.Interface" RUN_TARGET_NAME="002.Interface" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
@@ -36,8 +68,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588528205153</updated>
-      <workItem from="1588528206882" duration="31000" />
+      <workItem from="1588528206882" duration="1379000" />
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom" timestamp="1588528331176">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1588528331176" />
+    <state width="1358" height="271" key="GridCell.Tab.0.center" timestamp="1588528331176">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1588528331176" />
+    <state width="1358" height="271" key="GridCell.Tab.0.left" timestamp="1588528331175">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1588528331175" />
+    <state width="1358" height="271" key="GridCell.Tab.0.right" timestamp="1588528331176">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1588528331176" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1588529333197">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1588529333197" />
   </component>
 </project>
